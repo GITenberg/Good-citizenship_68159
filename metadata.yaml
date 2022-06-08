@@ -1,0 +1,37 @@
+_repo: Good-citizenship_68159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cleveland, Grover
+    aliases:
+    - United States President (1885-1889)
+    - Cleveland, Stephen Grover
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '1654'
+    url: http://www.gutenberg.org/2009/agents/1654
+    wikipedia: https://en.wikipedia.org/wiki/Grover_Cleveland
+description: ''
+gutenberg_issued: '2022-05-24'
+identifiers:
+  gutenberg: '68159'
+language: en
+pgterms:marc905: 20220109165331cleveland
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: David E. Brown, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Henry Altemus Company,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patriotism'
+- !lcsh 'Holidays'
+- !lcc 'JK'
+- !lcsh 'Citizenship'
+- !lcsh 'National characteristics, American'
+- GITenberg
+tableOfContents: Good citizenship -- Patriotism and holiday observance.
+title: Good citizenship
+url: http://www.gutenberg.org/ebooks/68159
